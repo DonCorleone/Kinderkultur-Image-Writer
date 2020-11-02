@@ -1,8 +1,0 @@
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/bin/Debug/netcoreapp2.1/ImageWriter.deps.json
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/bin/Debug/netcoreapp2.1/ImageWriter.dll
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/bin/Debug/netcoreapp2.1/ImageWriter.pdb
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/obj/Debug/netcoreapp2.1/ImageWriter.csprojAssemblyReference.cache
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/obj/Debug/netcoreapp2.1/ImageWriter.AssemblyInfoInputs.cache
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/obj/Debug/netcoreapp2.1/ImageWriter.AssemblyInfo.cs
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/obj/Debug/netcoreapp2.1/ImageWriter.dll
-/Users/dev/Documents/dev/projects/Kinderkultur/Kinderkultur-Image-Writer/obj/Debug/netcoreapp2.1/ImageWriter.pdb
